@@ -10,7 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.7.2",
 	"appid": "wxbdb49c415b9a68c2",
-	"projectname": "practice",
+	"projectname": "demo",
 	"condition": {
 		"search": {
 			"current": -1,
